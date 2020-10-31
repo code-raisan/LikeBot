@@ -3,8 +3,8 @@ import tweepy
 import time as t
 
 CK = ""
-CS = "jPrJCW1WjniNy5NhHKUAT9bKZBtmbGeSQMfQK4YwCtGfI65GR7"
-AT = "1175900055485599744-H2znV7RF7lKKTLtTv35i3ef6sYxaV3"
+CS = ""
+AT = ""
 AS = ""
 n = 20
 
