@@ -48,4 +48,4 @@ for status in api.home_timeline(count = n):
         le = le + 1 
 
 print(f"\n\nふぁぼ完了 : {f} / 既にふぁぼ済み : {of} / 除外 : {le} / 合計 : {c}\n\n\n\n\n\n")
-api.update_status(str(f"\n\nふぁぼ完了 : {f} / 既にふぁぼ済み : {of} / 除外 : {le} / 合計 : {c}\n\n\n\n\n\n"))
+api.update_status(str(f"\n\nふぁぼ完了 : {f} / 既にふぁぼ済み : {of} / 除外 : {le} / 合計 : {c}"))
